@@ -4,6 +4,7 @@ int num;
 
 int main()
 {
+    printf("sawasdee kub");
     printf("Your number is ");
     scanf("%d", &num);
     //if numer is 1 or 0 return not prime
