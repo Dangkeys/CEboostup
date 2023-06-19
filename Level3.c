@@ -4,6 +4,7 @@ int num;
 int main()
 {
     //get the number
+    //test git
     printf("Your number is ");
     scanf("%d", &num);
     int colSize = num*2 - 1;
